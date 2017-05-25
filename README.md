@@ -6,6 +6,8 @@
 
 My school email: edwaprut9525@granitesd.org
 
+###Group Project
+
 For one of my projects I had worked on a game called "Purple Man Fights Back"
 
 ![StartScreen](https://raw.githubusercontent.com/edwardprutski/portfolio/master/FolderPortfolio/game%20art%20stuff/startgame.png)
@@ -30,7 +32,7 @@ You can get the game from one of the appropriate links
 - [Windowsx32](https://drive.google.com/open?id=0B6569lscHHIcMVRGdmZJbEdDM3M)
 - [MacOSX](https://drive.google.com/open?id=0B6569lscHHIcTkh6T1JQSFJwcjQ)
 
-# Othe Projects
+# Other Projects
 
 ### Bouncing Balls Simulation
 
