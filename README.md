@@ -6,7 +6,7 @@
 
 My school email: edwaprut9525@granitesd.org
 
-###Group Project
+### Group Project
 
 For one of my projects I had worked on a game called "Purple Man Fights Back"
 
