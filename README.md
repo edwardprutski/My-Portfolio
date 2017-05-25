@@ -25,7 +25,7 @@ This game features:
 - 4 different unique mobs with their own unique simple Ai mechanics
 - Environmental Hazards
 
-You can get the game from one of the appropriate links
+You can get the game from one of these appropriate links
 - [Windowsx64](https://drive.google.com/open?id=0B6569lscHHIcZTItUF90RFEwWFE)
 - [Windowsx32](https://drive.google.com/open?id=0B6569lscHHIcMVRGdmZJbEdDM3M)
 - [MacOSX](https://drive.google.com/open?id=0B6569lscHHIcTkh6T1JQSFJwcjQ)
